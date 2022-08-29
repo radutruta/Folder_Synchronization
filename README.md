@@ -1,5 +1,6 @@
 Dependencies:
--are listed in requirements.txt
+
+See requirements.txt file.
 
 How to:
 
