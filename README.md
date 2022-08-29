@@ -2,6 +2,7 @@ Dependencies:
 - are listed in requirements.txt
 
 How to:
+
 Script requires the following mandatory parameters: 
 -s: source directory path; 
 -r: replica directory path;
