@@ -1,5 +1,5 @@
 Dependencies:
-- are listed in requirements.txt
+-are listed in requirements.txt
 
 How to:
 
