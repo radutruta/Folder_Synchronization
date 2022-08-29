@@ -1,8 +1,8 @@
-Dependencies:
+**Dependencies:**
 
-See requirements.txt file.
+See **requirements.txt** file.
 
-How to:
+**How to:**
 
 Script requires the following mandatory parameters:
 
@@ -16,4 +16,5 @@ Script requires the following mandatory parameters:
 
 
 Command example:
-python synchronize_folders.py -s ~/Folder1 -r ~/Folder2 -f 5 -l ~/Test.txt
+
+**python synchronize_folders.py -s ~/Folder1 -r ~/Folder2 -f 5 -l ~/Log.txt**
